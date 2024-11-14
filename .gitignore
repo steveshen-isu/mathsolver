@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/src/backend/server.js
-/test_proxy_axios.js
+src/backend/server.js
+test_proxy_axios.js
